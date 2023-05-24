@@ -1,0 +1,21 @@
+.buttonb{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    width: 300px;
+    border: none;
+    outline: none;
+    background-color: gray;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: large;
+}
+.incrementer{
+    display:flex;
+    justify-Content:center;
+    flex-Direction:column;
+    align-Items:center;
+    margin-Top:22px;
+}
